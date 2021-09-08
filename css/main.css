@@ -39,22 +39,22 @@
   z-index: 1; }
 
 .timeline-card-primary {
-  border-left-color: #11324D; }
+  border-left-color: #4A89DC; }
 
 .timeline-card-primary:before {
-  border-color: #11324D; }
+  border-color: #4A89DC; }
 
 .timeline-card-primary:after {
-  background-color: #11324D; }
+  background-color: #4A89DC; }
 
 .timeline-card-success {
-  border-left-color: #C1CFC0; }
+  border-left-color: #37BC9B; }
 
 .timeline-card-success:before {
-  border-color: #C1CFC0; }
+  border-color: #37BC9B; }
 
 .timeline-card-success:after {
-  background-color: #C1CFC0; }
+  background-color: #37BC9B; }
 
 html {
   scroll-behavior: smooth; }
@@ -80,10 +80,6 @@ html {
 .cover {
   border-radius: 10px; }
 
-.cover-bg {
-  background-color: #11324D;
-  border-radius: 10px 10px 0 0; }
-
 .avatar {
   max-width: 216px;
   max-height: 216px;
@@ -91,10 +87,6 @@ html {
   text-align: center;
   margin-left: auto;
   margin-right: auto; }
-
-.avatar img {
-  /* Safari 6.0 - 9.0 */
-  filter: grayscale(100%); }
 
 footer a:not(.nav-link) {
   color: inherit;
